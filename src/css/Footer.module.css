@@ -1,0 +1,71 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: #050505;
+    
+}
+.navfooter{
+    padding: 5px;
+    margin: 2px;
+}
+.ulfooter{
+    display: flex;
+    flex-direction: column;
+    line-height: 1mm;
+}
+#liprincipal{
+    font-family: 'inter', sans-serif;
+    color: #16A34A;
+}
+.liconteudo{
+    color: #dfdfdd;
+    font-family: 'Lora', sans-serif;
+    font-size: 16px;
+}
+.conteudoNW{
+    color: #dfdfdd;
+    line-height: 6mm;
+    font-family: 'Lora', sans-serif;
+    font-size: 16px;
+
+}
+.caixaemail{
+    background-color: transparent;
+    color: #dfdfdd;
+    border: 1px solid #d1d1d1;
+    padding: 3%;
+    width: 35%;
+    margin-left: 11px;
+}
+.enviarEmail{
+    width: 20%;
+    border: 1px solid #d1d1d1;
+    background-color: #16A34A;
+    color: #dfdfdf;
+    padding: 3%;
+}
+
+#linha{
+    width: 100%;
+    height: 200px;
+    background-color: #dfdfdd;
+}
+.icone{
+    width: 46px;
+    height: 46px;
+    color: #fff;
+    margin-left: 10%;
+}
+#newsletter{
+    color: #dfdfdd;
+    font-family: 'Lora', sans-serif;
+    font-size: 16px;
+    margin: 0;
+}

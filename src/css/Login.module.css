@@ -1,0 +1,80 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+}
+#content{
+    /* margin-top: 800px; */
+    background-color: #16A34A;
+    width: 100%;
+    height: 650px;
+}
+#header{
+    width: 100%;
+    height: 100px;
+    background-color: #16A34A;
+}
+#login{
+    margin-top: 50px;
+    background-color: white;
+    width: 300px;
+    height: auto;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    flex-direction: column;
+    padding: 1.8%;
+    margin-left: 37%;
+    float: left;
+}
+#logo_texto{
+    display: flex;
+    flex-direction: column;
+    /* padding-left: 25%; */
+    align-items: center;
+}
+#h_1{
+    margin-top: 0;
+    color: #171717;
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+#logo{
+    width: 65px;
+    height: 65px;
+    margin-bottom: 35px;
+}
+#formulario{
+    flex-direction: column;
+    margin: 5%;
+}
+
+.estiloform{
+    border-bottom: 2px solid #0B662D;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#botao_acessar{
+    width: 100%;
+    padding: 5%;
+    border: 1px solid #0B662D;
+    margin-top: 35px;
+    border-radius: 5px;
+    color: #454545;
+    background-color: #EFEFF5;
+}
+#titulo_login{
+    font-size: 19px;
+    color: #1D1D1D;
+}
+.texto_senha_cliente{
+    margin-bottom: 5px;
+    margin-left: 23%;
+    list-style: none;
+}
+.texto_senha_cliente a{
+    font-size: 16px;
+    text-decoration: none;
+    color: #0B662D;
+}

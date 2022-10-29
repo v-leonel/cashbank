@@ -1,0 +1,117 @@
+.content{
+    width: 100%;
+    height: auto;
+    background-color: #f7f7f7;
+    display: flex;
+}
+#section1{
+    width: 25%;
+    height: 500px;
+    background-color: #3EAF50;
+    margin-left: 7.5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: #fff;
+    padding: 2%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#section2{
+    width: 25%;
+    height: 500px;
+    background-color: #29B03F;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 1mm;
+    margin-right: 1mm;
+    padding: 2%;
+    color: #Fff;
+
+}
+#section3{
+    width: 25%;
+    height: 500px;
+    background-color: #288136;
+    margin-right: 7.5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 2%;
+    color:#fff;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+.icone{
+    width: 25px;
+    height: 25px;
+}
+.contentarticle h2{
+    font-family: 'Inter', sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    margin-bottom: 5%;
+
+}
+.contentarticle p{
+    font-family: 'poppins', sans-serif;
+    font-weight: 300;
+    font-size: 16.5px;
+    color: #fffefe;
+}
+
+
+#saibamaisS1{
+    color: #3EAF50;
+    padding: 7%;
+    align-items: center;
+    margin-top: 30%;
+    margin-left: 30%;
+    border: #dedede solid 3px;
+    border-radius: 10px;
+    background-color: #fefefe;
+}
+#saibamaisS2{
+    padding: 7%;
+    align-items: center;
+    margin-top: 30%;
+    margin-left: 30%;
+    border: #dedede solid 3px;
+    border-radius: 10px;
+    background-color: #fefefe;
+    color: #29B03F;
+}
+#saibamaisS3{
+    padding: 7%;
+    align-items: center;
+    margin-top: 30%;
+    margin-left: 30%;
+    border: #dedede solid 3px;
+    border-radius: 10px;
+    background-color: #fefefe;
+    color: #288136;
+}
+
+
+#saibamaisS1:hover{
+    border: #fefefe solid px;
+    border-radius: 10px;
+    background-color: #3EAF50;
+    color: #fff;
+    transition: background .7s;
+}
+#saibamaisS2:hover{
+    border: #fefefe solid px;
+    border-radius: 10px;
+    background-color: #29B03F;
+    color: #fff;
+    transition: background .7s;
+}
+#saibamaisS3:hover{
+    border: #fefefe solid px;
+    border-radius: 10px;
+    background-color: #288136;
+    color: #fff;
+    transition: background .7s;
+}
+
